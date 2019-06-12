@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/dipole.png</file>
+        <file>Resources/octupole.png</file>
+        <file>Resources/quadrupole.png</file>
+        <file>Resources/sextipole.png</file>
+        <file>Resources/lens.png</file>
+        <file>Resources/solenoid.png</file>
+        <file>Resources/drift.png</file>
+        <file>Resources/multipole.png</file>
+    </qresource>
+</RCC>
